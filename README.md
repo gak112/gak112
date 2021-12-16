@@ -30,5 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gak112&count_private=true&show_icons=true&layout=compact)](https://github.com/gak112/github-readme-stats)
 
-[![gak112's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gak112)](https://github.com/gak112/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
