@@ -28,6 +28,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gak112)](https://github.com/gak112/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gak112&layout=compact)](https://github.com/gak112/github-readme-stats)
+
+[![Ajay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gak112)](https://github.com/gak112/github-readme-stats)
 
