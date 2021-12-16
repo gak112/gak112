@@ -28,24 +28,4 @@
 <br />
 <br />
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/gak112/portfolio-sass/issues/2) in [gak112/portfolio-sass](https://github.com/gak112/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/gak112/portfolio-sass/issues/2) in [gak112/portfolio-sass](https://github.com/gak112/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/gak112/free-developer-resources/pull/11) in [gak112/free-developer-resources](https://github.com/gak112/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/gak112/free-developer-resources/issues/11) in [gak112/free-developer-resources](https://github.com/gak112/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/gak112/free-developer-resources/pull/10) in [gak112/free-developer-resources](https://github.com/gak112/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="gak112's GitHub Stats" src="https://github-readme-stats.gak112.vercel.app/api?username=gak112&show_icons=true&hide_border=true" />
-
-</details>
