@@ -30,9 +30,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gak112&count_private=true&show_icons=true&layout=compact)](https://github.com/gak112/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 
