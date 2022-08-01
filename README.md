@@ -1,4 +1,4 @@
-<### Hi there 👋, my name is Ajay Kumar Gunda
+Hi there 👋, my name is Ajay Kumar Gunda
 #### I am a Software developer
 
 
