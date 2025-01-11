@@ -19,6 +19,7 @@ I am detail-oriented and desirous of working with a well-established organizatio
 ![SQLServer](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlserver)
 
 ### ♠ Frameworks & Libraries
+![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
