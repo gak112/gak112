@@ -20,15 +20,11 @@ I am detail-oriented and desirous of working with a well-established organizatio
 
 ### ♠ Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logo=angular)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Fast API](https://img.shields.io/badge/-Fast_API-000000?style=flat&logo=fastAPI)
 ![DJango](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=nodedotjs)
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
 
 ### 🛠 Tools
